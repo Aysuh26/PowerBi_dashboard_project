@@ -8,6 +8,7 @@ Welcome to the **E-commerce Sales Dashboard**! This interactive dashboard provid
 This dashboard is designed to analyze and visualize e-commerce sales data effectively. It comprises six key columns and four summary cards, each offering unique perspectives on the sales data.
 
 ---
+![Screenshot 2025-06-11 174211](https://github.com/user-attachments/assets/1cb7bc55-2f1a-4e1d-aabe-f219b3ebdca8)
 
 ## 🧱 Dashboard Structure
 
